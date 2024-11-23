@@ -1,5 +1,4 @@
-#web
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,7 +23,6 @@
             <h2>Identify Diseases Based on Symptoms</h2>
             <p>Enter the symptoms to find out possible plant diseases.</p>
         </section>
-
         <section class="form-section">
             <form id="symptom-form">
                 <label for="symptoms">Describe Symptoms:</label>
@@ -32,13 +30,11 @@
                 <button type="submit" onclick="identifyDisease()">Identify Disease <i class="fa-solid fa-magnifying-glass"></i></button>
             </form>
         </section>
-
-        <section id="results">
+<section id="results">
             <h2>Possible Diseases</h2>
             <div id="disease-results"></div>
         </section>
-
-        <script src="a.js"></script>
+<script src="a.js"></script>
     </main>
     <div class="slider">
         <div class="slide" id="ab">
@@ -54,7 +50,6 @@
             <img src="plant4.jpg" alt="Image 4">
         </div>
     </div>
-    
     <div class="grid-container">
     <div class="menu-item">
         <img src="admire.png" alt="">
