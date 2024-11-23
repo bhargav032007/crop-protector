@@ -26,7 +26,7 @@
         <section class="form-section">
             <form id="symptom-form">
                 <label for="symptoms">Describe Symptoms:</label>
-                <textarea id="symptoms" name="symptoms" required placeholder="e.g. yellowing leaves, black spots, etc..."></textarea>
+                <textarea id="symptoms" style="height=30px"name="symptoms" required placeholder="e.g. yellowing leaves, black spots, etc..."></textarea>
                 <button type="submit" onclick="identifyDisease()">Identify Disease <i class="fa-solid fa-magnifying-glass"></i></button>
             </form>
         </section>
@@ -114,6 +114,3 @@
             <i id="github" class="fab fa-github social-icon"></i>
         </a>
     </div>
-</footer>
-</body>
-</html>
