@@ -1,4 +1,3 @@
-# crop-protector
 <!DOCTYPE html>
 <html lang="en">
 <head>
