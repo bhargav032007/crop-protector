@@ -15,7 +15,7 @@
         <nav><a href="#Home"><i class="fa-solid fa-house"></i>Home</a>
             <a href="about.html"><i class="fa-solid fa-person"></i>About</a>
             <a href="mailto:nellaballib@gmail.com" target="_blank"><i class="fa-solid fa-envelope"></i>Mail</a>
-            <a href="tel:+918978491984"><i class="fa-solid fa-phone"></i>Contact</a>
+            <a href="https://call.whatsapp.com/voice/XRxVM8L0BINveGovXNBpv3"><i class="fa-solid fa-phone"></i>Contact</a>
         </nav>
     </header>
     <main>
