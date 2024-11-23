@@ -117,9 +117,6 @@
         <a href="https://github.com/bhargav032007" target="_blank" >
             <i id="github" class="fab fa-github social-icon"></i>
         </a>
-        
-        
-
     </div>
 </footer>
 </body>
